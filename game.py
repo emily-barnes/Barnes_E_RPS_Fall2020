@@ -28,5 +28,18 @@ elif (computer == "rock"):
 		print("You lose!")
 	else:
 		print("You win!")
-		
+
+elif (computer == "paper"):
+	if (player == "scissors"):
+		print("You lose!")
+	else:
+		print("You win!")
+
+elif (computer == "scissors"):
+	if (player == "rock"):
+		print("You lose!")
+	else:
+		print("You win!")
+
+
 
