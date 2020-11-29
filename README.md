@@ -7,7 +7,7 @@ Pick your weapon and play against the computer - you'll only get a virtual sting
 All you need is (https://www.python.org/download/releases/3.0/ "Python 3") to play.
 
 ## Usage
-Clone the project, <>cd</directory name> to your directory/download and run the <game.py> file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
+Clone the project, <>cd</> <>directory name</> to your directory/download and run the <game.py> file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
 
 ## Rules
 Same as the classic game:
